@@ -1,3 +1,28 @@
+![Captura de Tela (147)](https://github.com/PauloAquarius0299/desafio-frontend-smartfit/assets/114706743/c4cd2042-4ae1-470f-add5-a7ef90b57c98)
+
+# 🏋️ Desafio Front-End SmartFit 
+Usei o desafio da SmartFit para aprimorar minhas habilidades em Angular com TypeScript
+## 🏋️‍♀️ Introdução 
+O desafio era montar uma interface que filtrasse as 167 lojas da SmartFit e suas funcionalidades, durante a pandemia, com a http JSON que a empresa disponibilizou no link do desafio.
+### 💡 Pre-Requisitos 
+* Link do Desafio
+```
+https://github.com/bioritmo/front-end-code-challenge-smartsite
+```
+* Instalação do Angular 14
+```
+npm install -g @angular/cli 
+```
+### 🛠️ Ferramentas 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+### LINK
+https://challengefrontend-smartfit.netlify.app/
+![Captura de Tela (148)](https://github.com/PauloAquarius0299/desafio-frontend-smartfit/assets/114706743/ffcd32b2-1da9-4c22-86bd-8fff51940c23)
+![Captura de Tela (149)](https://github.com/PauloAquarius0299/desafio-frontend-smartfit/assets/114706743/42621e8a-b8b4-42e3-977d-d5cfb8098f4b)
+
+
 # ChallengeSmartfit
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
